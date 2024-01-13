@@ -1,0 +1,16 @@
+body{
+    background-color: azure;
+}
+
+.mesg{
+    background-color: aqua;
+    min-height: 200px;
+   width: 500px;
+   position: absolute;
+   top: 30%;
+   left: 30%;
+   box-shadow: -5px 2px 54px -9px rgba(0, 0, 0, 1);
+   font-size: 50px;
+   
+  
+}
